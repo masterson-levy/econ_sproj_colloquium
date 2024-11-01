@@ -1,0 +1,3 @@
+Contains two programs:
+colloquium.R
+colloquium.do
